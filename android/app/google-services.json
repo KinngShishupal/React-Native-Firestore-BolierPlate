@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708611600257",
+    "project_id": "todoreloaded-ab16e",
+    "storage_bucket": "todoreloaded-ab16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708611600257:android:026662e63bf7e7fb63c280",
+        "android_client_info": {
+          "package_name": "com.firebasetut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708611600257-3omm0st7h1dqutsd385pqngerkenm2h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibrMWiN_b81IjN5uxDaOFGAjEassxc84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708611600257-3omm0st7h1dqutsd385pqngerkenm2h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
