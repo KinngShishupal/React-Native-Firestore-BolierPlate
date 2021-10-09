@@ -1201,10 +1201,20 @@
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
 
+"@react-native-firebase/auth@^12.9.0":
+  version "12.9.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/auth/-/auth-12.9.0.tgz#578fdc6dff3db40bea8427801aa04140e08df85e"
+  integrity sha512-+2e9jHtpUq2aJoLPUzcRNGyEdBQeEgqim4dVWToMkFcctA+1NqQGnIBRhZIq44ZyBTb+tbyPktnIfm66QJNDyg==
+
 "@react-native-firebase/firestore@^12.9.0":
   version "12.9.0"
   resolved "https://registry.yarnpkg.com/@react-native-firebase/firestore/-/firestore-12.9.0.tgz#50f538c40a005ceb2e3af847905238b795462679"
   integrity sha512-w+0q5WJ5kkxcbZv8OX8aGrseznYlhdFFM40JaDYhTayBSsopVwm2dxzo07P1FbNv+c7JzPWKcDW3+jGC539jCg==
+
+"@react-native-firebase/storage@^12.9.0":
+  version "12.9.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/storage/-/storage-12.9.0.tgz#d48ef286f8106857abab4e2494a5d8cfbcafd060"
+  integrity sha512-iA9Q5htLR+88v+V1qPNLn5LC3Fz4tmqLsprWPt/Oj1atB+pgJRKrzgGC19CWGNtBPgkOAPr4G94EwdSRQ47kvg==
 
 "@react-native/assets@1.0.0":
   version "1.0.0"
@@ -5391,6 +5401,11 @@ react-native-codegen@^0.0.7:
     flow-parser "^0.121.0"
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
+
+react-native-image-crop-picker@^0.36.4:
+  version "0.36.4"
+  resolved "https://registry.yarnpkg.com/react-native-image-crop-picker/-/react-native-image-crop-picker-0.36.4.tgz#13a659fc296bea695a88a36de9eacd1e4aebc9b8"
+  integrity sha512-FOWkYbCEh78V5/aK9HqMSvRnQJtelGwj0UOu1zhE49gO6e4YoKKNBvA15jweAMM/kPA+omDXBIgJaruonoEXGA==
 
 react-native@0.66.0:
   version "0.66.0"
